@@ -1,0 +1,12 @@
+{
+    "0": {
+        "name": "The Lord of the Rings",
+        "authorName": "J.R.R. Tolkien",
+        "isbn": "9780358653035"
+    },
+    "2": {
+        "name": "20,000 Leagues Under the Sea",
+        "authorName": "Jules Verne",
+        "isbn": "9781949460575"
+    }
+}
